@@ -21,7 +21,7 @@ or by:
 Installation
 ============
 
-You can install this tool using [distutils][],[setuptools][] or [pip][] and have it in your PATH that way.
+You can install this tool using [distutils][], [setuptools][] or [pip][] and have it in your PATH that way.
 
 The recommended way:
 
