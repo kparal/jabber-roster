@@ -3,6 +3,7 @@ jabber-roster
 
 A simple Python tool for listing your Jabber roster contacts. You can use it to easily backup list of your buddies.
 
+This program is maintained, but not further developed. Bugs will be fixed, but no new features will be added. If you want to work on this program, don't hesitate to contact me, I will gladly assign you to the development team.
 
 Running
 =======
