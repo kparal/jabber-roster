@@ -49,16 +49,19 @@ License
 This program is a free software, licensed under GNU AGPL 3+. See `LICENSE` file.
 
 
-Contact
-=======
-
-Visit <https://github.com/kparal/jabber-roster>.
-
-
 Donations
 =========
 
 If you like this program you can [Flattr it](https://flattr.com/thing/78799/jabber-roster).
 
 [![](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/thing/78799/jabber-roster)
+
+
+Contact
+=======
+
+Visit program homepage at: <https://github.com/kparal/jabber-roster>
+
+Please report all bugs to the [issue tracker](https://github.com/kparal/jabber-roster/issues), but don't request new features unless you have a patch for it. This is a small personal project and I don't plan to spend much more time on it. I will gladly merge your patches if they look reasonable.
+
 
